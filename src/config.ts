@@ -403,10 +403,16 @@ export const navBarConfig: NavBarConfig = {
 					icon: "material-symbols:photo-library"
 				},
 				{
-					name: "Devices",
-					url: "/devices/",
-					icon: "material-symbols:devices",
-					external: false
+					name: "图床",
+					url: "https://cloudflare-imgbed.sooday.dpdns.org/browse/%E5%9B%BE%E5%BA%93",
+					icon: "mdi:application",
+					external: true
+				},
+				{
+					name: "导航页",
+					url: "https://nav.sooday.dpdns.org/",
+					icon: "mdi:backup-restore",
+					external: true
 				}
 			]
 		},
