@@ -452,7 +452,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://cloudflare-imgbed.sooday.dpdns.org/file/%E5%9B%BE%E5%BA%93/%E4%BA%BA%E7%89%A9/J2dQ7zYl.webp",
+	avatar: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/TsAKVSuW.webp",
 	name: "SooDay",
 	bio: "世界那么大，我想去看看",
 	typewriter: {
