@@ -373,6 +373,12 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://nav.sooday.dpdns.org/",
 					icon: "mdi:backup-restore",
 					external: true
+				},
+				{
+					name: "邮箱",
+					url: "https://cloudflare-temp-email.sooday.dpdns.org/",
+					icon: "fa7-solid:mail-bulk",
+					external: true
 				}
 			]
 		},
