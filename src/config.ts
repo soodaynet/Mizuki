@@ -453,38 +453,18 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp",
-	name: "まつざか ゆき",
-	bio: "世界は大きい、君は行かなければならない",
+	avatar: "https://cloudflare-imgbed.sooday.dpdns.org/file/%E5%9B%BE%E5%BA%93/%E4%BA%BA%E7%89%A9/J2dQ7zYl.webp",
+	name: "SooDay",
+	bio: "世界那么大，我想去看看",
 	typewriter: {
 		enable: true,
 		speed: 80
 	},
 	links: [
 		{
-			name: "Bilibili",
-			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046"
-		},
-		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki"
-		},
-		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/matsuzaka-yuki"
-		},
-		{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org"
-		},
-		{
-			name: "Discord",
-			icon: "fa7-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM"
+			url: "https://github.com/soodaynet"
 		}
 	]
 };
