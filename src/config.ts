@@ -661,7 +661,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 };
 
 export const sakuraConfig: SakuraConfig = {
-	enable: false,
+	enable: true,
 	sakuraNum: 21,
 	limitTimes: -1,
 	size: {
