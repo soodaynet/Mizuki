@@ -536,12 +536,12 @@ export const shareConfig: ShareConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "",
-	content: "ブログへようこそ！これはサンプルの告知です",
+	title: "公告",
+	content: "测试",
 	closable: true,
 	link: {
 		enable: true,
-		text: "Learn More",
+		text: "详情",
 		url: "/about/",
 		external: false
 	}
