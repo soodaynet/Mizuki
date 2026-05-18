@@ -45,8 +45,8 @@ export const siteConfig: SiteConfig = {
 	navbarTitle: {
 		mode: "text-icon",
 		text: "SooDayUI",
-		icon: "https://cloudflare-imgbed.sooday.dpdns.org/file/%E5%9B%BE%E5%BA%93/%E4%BA%BA%E7%89%A9/biUfLB71.webp",
-		logo: "https://cloudflare-imgbed.sooday.dpdns.org/file/%E5%9B%BE%E5%BA%93/%E5%9B%BE%E6%A0%87/ZurCK0zU.webp"
+		icon: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/LWNf5pv7.webp",
+		logo: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/2k71TDeX.webp"
 	},
 	pageScaling: {
 		enable: true,
@@ -223,7 +223,7 @@ export const siteConfig: SiteConfig = {
 	generateOgImages: false,
 	favicon: [
 		{
-			src: "https://cloudflare-imgbed.sooday.dpdns.org/file/%E5%9B%BE%E5%BA%93/%E5%9B%BE%E6%A0%87/ZurCK0zU.webp"
+			src: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/2k71TDeX.webp"
 		}
 	],
 	font: {
