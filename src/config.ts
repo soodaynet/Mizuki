@@ -631,15 +631,11 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 		left: [
 			"profile",
 			"announcement",
+			"categories",
 			"tags",
 			"card-toc"
 		],
-		right: [
-			"site-stats",
-			"calendar",
-			"categories",
-			"music-sidebar"
-		],
+		right: ["site-stats", "calendar", "music-sidebar"],
 		drawer: [
 			"profile",
 			"announcement",
