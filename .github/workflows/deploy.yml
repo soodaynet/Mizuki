@@ -5,6 +5,9 @@ on:
   # 如果你使用了别的分支名，请按需将 `main` 替换成你的分支名
   push:
     branches: [ master ]
+  repository_dispatch:  # 内容仓库触发
+    types:
+      - content-updated
   # 允许你在 GitHub 上的 Actions 标签中手动触发此"工作流程"
   workflow_dispatch:
 
@@ -39,9 +42,9 @@ jobs:
         run: pnpm run build
         env:
           # 如果需要启用内容分离,取消以下注释并配置
-          # ENABLE_CONTENT_SYNC: true
-          # CONTENT_REPO_URL: ${{ secrets.CONTENT_REPO_URL }}
-          # USE_SUBMODULE: true
+           ENABLE_CONTENT_SYNC: true
+           CONTENT_REPO_URL: ${{ secrets.CONTENT_REPO_URL }}
+           USE_SUBMODULE: true
       
       - name: Deploy to pages branch
         uses: JamesIves/github-pages-deploy-action@v4
