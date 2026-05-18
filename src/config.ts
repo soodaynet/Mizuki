@@ -358,32 +358,32 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		{
-			name: "Links",
+			name: "链接",
 			url: "/links/",
 			icon: "material-symbols:link",
 			children: [
 				{
 					name: "GitHub",
 					url: "https://github.com/LyraVoid/Mizuki",
-					external: true,
-					icon: "fa7-brands:github"
+					icon: "fa7-brands:github",
+					external: true
 				},
 				{
 					name: "Bilibili",
 					url: "https://space.bilibili.com/701864046",
-					external: true,
-					icon: "fa7-brands:bilibili"
+					icon: "fa7-brands:bilibili",
+					external: true
 				},
 				{
 					name: "Gitee",
 					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git"
+					icon: "mdi:git",
+					external: true
 				}
 			]
 		},
 		{
-			name: "My",
+			name: "我的",
 			url: "/content/",
 			icon: "material-symbols:person",
 			children: [
@@ -411,7 +411,7 @@ export const navBarConfig: NavBarConfig = {
 			]
 		},
 		{
-			name: "About",
+			name: "关于",
 			url: "/content/",
 			icon: "material-symbols:info",
 			children: [
@@ -428,7 +428,7 @@ export const navBarConfig: NavBarConfig = {
 			]
 		},
 		{
-			name: "Others",
+			name: "其他",
 			url: "#",
 			icon: "material-symbols:more-horiz",
 			children: [
