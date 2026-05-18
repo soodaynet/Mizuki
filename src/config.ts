@@ -363,21 +363,15 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:link",
 			children: [
 				{
-					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
-					icon: "fa7-brands:github",
+					name: "图床",
+					url: "https://cloudflare-imgbed.sooday.dpdns.org/browse/%E5%9B%BE%E5%BA%93",
+					icon: "mdi:application",
 					external: true
 				},
 				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					icon: "fa7-brands:bilibili",
-					external: true
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					icon: "mdi:git",
+					name: "导航页",
+					url: "https://nav.sooday.dpdns.org/",
+					icon: "mdi:backup-restore",
 					external: true
 				}
 			]
@@ -401,18 +395,6 @@ export const navBarConfig: NavBarConfig = {
 					name: "相册",
 					url: "/albums/",
 					icon: "material-symbols:photo-library"
-				},
-				{
-					name: "图床",
-					url: "https://cloudflare-imgbed.sooday.dpdns.org/browse/%E5%9B%BE%E5%BA%93",
-					icon: "mdi:application",
-					external: true
-				},
-				{
-					name: "导航页",
-					url: "https://nav.sooday.dpdns.org/",
-					icon: "mdi:backup-restore",
-					external: true
 				}
 			]
 		},
