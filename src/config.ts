@@ -214,10 +214,10 @@ export const siteConfig: SiteConfig = {
 	toc: {
 		enable: true,
 		mobileTop: true,
-		desktopSidebar: true,
+		desktopSidebar: false,
 		floating: true,
 		depth: 2,
-		useJapaneseBadge: true
+		useJapaneseBadge: false
 	},
 	showCoverInContent: true,
 	generateOgImages: false,
@@ -470,7 +470,7 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 };
@@ -513,7 +513,7 @@ export const commentConfig: CommentConfig = {
 	system: "twikoo",
 	twikoo: {
 		envId: "https://twikoo.vercel.app",
-		lang: SITE_LANG
+		lang: "SITE_LANG"
 	},
 	giscus: {
 		repo: "your-github-username/your-repo-name",
@@ -526,7 +526,7 @@ export const commentConfig: CommentConfig = {
 		emitMetadata: "0",
 		inputPosition: "top",
 		theme: "preferred_color_scheme",
-		lang: SITE_LANG,
+		lang: "SITE_LANG",
 		loading: "lazy"
 	}
 };
