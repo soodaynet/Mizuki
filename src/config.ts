@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	navbarTitle: {
 		mode: "text-icon",
 		text: "SooDayUI",
-		icon: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/LWNf5pv7.webp",
+		icon: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/BWwrZi5Z.webp",
 		logo: "https://cloudflare-imgbed.sooday.dpdns.org/file/SooDay/2k71TDeX.webp"
 	},
 	pageScaling: {
