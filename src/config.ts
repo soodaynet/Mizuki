@@ -24,7 +24,7 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 export const siteConfig: SiteConfig = {
 	title: "SooDay",
-	subtitle: "One demo website",
+	subtitle: "主页",
 	siteURL: "https://blog.sooday.dpdns.org/",
 	siteStartDate: "2026-05-18",
 	lang: "zh_CN",
