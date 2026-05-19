@@ -187,7 +187,7 @@ export const siteConfig: SiteConfig = {
 		},
 		waves: {
 			enable: true,
-			performanceMode: false,
+			performanceMode: true,
 			mobileDisable: false
 		},
 		imageApi: {
