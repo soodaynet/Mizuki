@@ -174,7 +174,7 @@ export const siteConfig: SiteConfig = {
 		position: "center",
 		carousel: {
 			enable: true,
-			interval: 3
+			interval: 10
 		},
 		waves: {
 			enable: true,
