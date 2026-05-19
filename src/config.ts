@@ -322,7 +322,6 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/QyorufMB.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/ypVmNr6w.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/ak7i9iJT.webp",
-			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/XNKqz6Nd.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/cU9Mulco.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/YuFogla5.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/VmpE14kY.webp",
@@ -331,7 +330,6 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/OlduoB6g.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/bVdDEjGs.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/FBh2PNbd.webp",
-			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/4PnOCn9N.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/GXFmtKZi.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/9B2cwZag.webp",
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/AVAjxpsm.webp",
@@ -346,10 +344,21 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/横屏壁纸/BMYt9m4c.webp"
 		],
 		mobile: [
-			"/assets/mobile-banner/1.webp",
-			"/assets/mobile-banner/2.webp",
-			"/assets/mobile-banner/3.webp",
-			"/assets/mobile-banner/4.webp"
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/9HXd6USB.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/s5Qi8TOA.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/W9AuSNaJ.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/PfTZ6h6p.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/obXcuoBi.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/EY5bAFAL.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/WL3nqnZu.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/9EbLtQea.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/Wp8WmDwd.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/gaY4rOpt.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/qJk9VoFk.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/WNVX7mki.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/8ffF7NOr.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/zhWnRnsF.webp",
+			"https://cloudflare-imgbed.sooday.dpdns.org/file/图库/竖屏壁纸/1dzNaWw1.webp"
 		]
 	},
 	position: "center",
