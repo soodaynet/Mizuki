@@ -196,7 +196,7 @@ export const siteConfig: SiteConfig = {
 		},
 		homeText: {
 			enable: true,
-			title: "わたしの部屋",
+			title: "SooDay的小站",
 			subtitle: [
 				"特別なことはないけど、君がいると十分です",
 				"今でもあなたは私の光",
